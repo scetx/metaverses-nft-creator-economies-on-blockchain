@@ -36,7 +36,7 @@ body {
     font-size: 16px;
     line-height: 1.5;
     color: $body-text-color;
-  }
+}
 
 .main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
     color: $section-headings-color;
@@ -44,6 +44,10 @@ body {
 
 a {
     color: $primary-color;
+}
+
+.main-content h2 {
+    font-weight: 500;
 }
 
 .main-content {  

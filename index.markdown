@@ -53,3 +53,22 @@ Time: 5-7pm PST
 Location: [ETCH3108](https://www.ets.berkeley.edu/classroom-database/etcheverry-3108) and Zoom
 
 [Zoom Link Meeting ID 987 70842609](https://berkeley.zoom.us/s/98770842609)
+
+## Tentative Guest Speaker List
+
+<iframe id="speakers" src="/speakers" width="100%" height="100" frameborder=0> </iframe>
+
+<script>
+  function setIframeHeight(iframe) {
+    if (iframe) {
+        var iframeWin = iframe.contentWindow || iframe.contentDocument.parentWindow;
+        if (iframeWin.document.body) {
+            iframe.height = iframeWin.document.documentElement.scrollHeight || iframeWin.document.body.scrollHeight;
+        }
+    }
+  };
+
+  window.onload = function() {
+      setIframeHeight(document.getElementById('speakers'));
+  };
+</script>
