@@ -54,9 +54,19 @@ Location: [ETCH3108](https://www.ets.berkeley.edu/classroom-database/etcheverry-
 
 [Zoom Link Meeting ID 987 70842609](https://berkeley.zoom.us/s/98770842609)
 
+Classes Start on Tue, Jan 18, 2022, so our first class is on Wed, Jan 19, 2022
+
 ## Tentative Guest Speaker List
 
 <iframe id="speakers" src="/speakers" width="100%" height="100" frameborder=0> </iframe>
+
+## Upcoming Blockchain & NFT Events for Students
+
+[Resources and Events Page](https://bcourses.berkeley.edu/courses/1511465/pages/resources)
+
+## Course Syllabus
+
+<iframe id="syllabus" src="/syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -69,6 +79,7 @@ Location: [ETCH3108](https://www.ets.berkeley.edu/classroom-database/etcheverry-
   };
 
   window.onload = function() {
+      setIframeHeight(document.getElementById('syllabus'));
       setIframeHeight(document.getElementById('speakers'));
   };
 </script>
