@@ -1,0 +1,72 @@
+---
+---
+
+@import "{{ site.theme }}";
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700&display=swap');
+
+$header-bg-color: #696eff;
+$header-bg-color-secondary: #f8acff;
+$section-headings-color: #696eff;
+$primary-color: #696eff;
+
+.page-header {
+    text-align: center;
+    background-color: $header-bg-color;
+    background-image: linear-gradient(120deg, $header-bg-color-secondary, $header-bg-color);
+}
+
+.project-name {
+    @include large {
+      font-size: 2.5rem;
+    }
+  
+    @include medium {
+      font-size: 2.25rem;
+    }
+  
+    @include small {
+      font-size: 1.75rem;
+    }
+}
+
+body {
+    padding: 0;
+    margin: 0;
+    font-family: 'Manrope', sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    color: $body-text-color;
+  }
+
+.main-content h1, .main-content h2, .main-content h3, .main-content h4, .main-content h5, .main-content h6 {
+    color: $section-headings-color;
+}
+
+a {
+    color: $primary-color;
+}
+
+.main-content {  
+
+    h1:first-child {
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+
+    @include large {
+        max-width: 75rem;
+        padding: 2rem 6rem;
+        margin: 0 auto;
+        font-size: 1rem;
+    }
+
+    @include medium {
+        padding: 2rem 4rem;
+        font-size: 1rem;
+    }
+
+    @include small {
+        padding: 2rem 1rem;
+        font-size: 1rem;
+    }
+}

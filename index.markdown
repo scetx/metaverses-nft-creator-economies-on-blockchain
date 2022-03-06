@@ -43,3 +43,13 @@ Sponsors: Rally, Republic Crypto, Algorand, Ripple
     </tr>
   </tbody>
 </table>
+
+## Class Time
+
+**Mondays and Wednesdays**
+
+Time: 5-7pm PST 
+
+Location: [ETCH3108](https://www.ets.berkeley.edu/classroom-database/etcheverry-3108) and Zoom
+
+[Zoom Link Meeting ID 987 70842609](https://berkeley.zoom.us/s/98770842609)
