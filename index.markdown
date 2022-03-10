@@ -30,8 +30,8 @@ redirect_from:
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://www.linkedin.com/in/lukekowalski/">Luke Kowalski</a></td>
-      <td><a href="https://www.linkedin.com/in/35mikemorris/">Michael Morris</a></td>
+      <td><a href="https://www.linkedin.com/in/lukekowalski/">Luke Kowalski</a><br><a href="#luke-kowalski">[Bio]</a></td>
+      <td><a href="https://www.linkedin.com/in/35mikemorris/">Michael Morris</a><br><a href="#michael-morris">[Bio]</a></td>
     </tr>
     <tr>
       <td>VP, Oracle</td>
@@ -209,3 +209,23 @@ Students are highly encouraged to focus on learning skills, setting goals and dr
 ## Required Weekly Homework
 
 Teams will complete some weekly homework, including occasional “reflections” video-blogs (roughly 2 minutes in length), outlining the evolution of their solution, what team members are learning individually, and unexpected surprises or challenges faced. Homework can be assigned to groups or individuals, while video blogs are always an individual assignment. Teams can also use the Innovation Navigator (see link in Resources Section)
+
+## Instructor Bios
+
+<br>
+<img style="object-fit:cover" width=150 height=200 src="/assets/lukekowalski.jpeg" alt="Luke Kowalski">
+
+### Luke Kowalski
+
+Luke Kowalski has been involved with UC Berkeley’s Sutardja Center for Entrepreneurship for a few years now, where he served as judge, mentor, and ad-hoc lecturer. He attended two startup entrepreneurship-training events in Slovakia and Jordan, where he was a sponsor, mentor, and presenter. This is his fourth semester of teaching the Challenge Lab.
+
+Luke works at Oracle as a corporate executive reporting to one of Larry Ellison’s EVPs and specializes in working across multiple disciplines. He has executed projects involving legal issues (antitrust, IP, audits, litigation), acquisitions (due diligence, integration, or divestitures), technical standards (document formats), government affairs (EU/USA trade, IP reform, repatriation), and even managed functions like physical security, user interface design and accessibility. Before coming to Oracle, he worked for various startups in technical, design, and business roles, as well as for Netscape's Server and E commerce division. He holds several patents and professional certifications, serves as an ISO representative for US through ANSI and lectures frequently at conferences and universities. His educational background includes advanced degrees from UTA, Pratt Institute, and Columbia University. He is also conducting PhD research on Bitcoin consumer adoption at the University of Leicester School of Management.
+
+Luke has worked on information security, physical security, and other aspects of cyber for over a decade. He firmly believes that blockchain has the potential to disrupt established technical and business patterns around the world. It is also a perfect foundation and universal concept for launching a startup. He also has experience with financial ERP apps, where he was one the lead designers and contributors, in addition to working on an acquisition in the fintech space.
+
+<br>
+<img style="object-fit:cover" width=150 height=200 src="/assets/michaelmorris.jpeg" alt="Michael Morris">
+
+### Michael Morris
+
+Michael Morris works as Forte’s Information Architect, designing knowledge management solutions and leading internal education efforts around gaming, blockchain and Forte’s platform. Prior to working in blockchain infrastructure, he worked in fundraising and community development for a social enterprise and nonprofits in education. Michael has long enjoyed learning about applications for blockchain technology by participating in the growth and development of web3 native communities. Nominated to Rally.io’s first Creator Review Council, Michael spearheaded several community driven $RLY protocol development efforts and co-developed a framework for approving new creators to the platform for tokenizing their economies. Michael looks forward to sharing insights and connections that can inspire his students to innovate across the metaverse, NFTs and creator economies.
