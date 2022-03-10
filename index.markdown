@@ -4,7 +4,7 @@
 
 layout: default
 title: "Metaverses, NFTs and Creator Economies on the Blockchain"
-permalink: /f21
+permalink: /s22
 redirect_from:
   - /
 ---
@@ -12,8 +12,6 @@ redirect_from:
 # INDENG 185: Spring 2022, Metaverses, NFTs and Creator Economies on the Blockchain - Challenge Lab
 
 [SCET Course Page](https://scet.berkeley.edu/students/courses/challenge-labs/metaverses-nfts-and-creator-economies-with-blockchain/)
-
-[Slack Channel](https://ucberkeleymet-8zi8834.slack.com/archives/C02TZ0VSMD4)
 
 **Max Enrollment**: 60
 
@@ -38,8 +36,8 @@ redirect_from:
       <td>Information Architect, Forte</td>
     </tr>
     <tr>
-      <td>lukek@berkeley.edu</td>
-      <td>michaelmorris@berkeley.edu</td>
+      <td><a href="mailto:lukek@berkeley.edu">lukek@berkeley.edu</a></td>
+      <td><a href="mailto:michaelmorris@berkeley.edu">michaelmorris@berkeley.edu</a></td>
     </tr>
   </tbody>
 </table>
@@ -65,7 +63,7 @@ Location: [ETCH3108](https://www.ets.berkeley.edu/classroom-database/etcheverry-
 
 Classes Start on Tue, Jan 18, 2022, so our first class is on Wed, Jan 19, 2022
 
-## Tentative Guest Speaker List
+## Guest Speaker List
 
 <iframe id="speakers" src="/speakers" width="100%" height="100" frameborder=0> </iframe>
 

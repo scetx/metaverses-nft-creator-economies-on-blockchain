@@ -6,9 +6,8 @@ permalink: /speakers
 
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
-      <th style="width: 20%;">Company(s)</th>
-      <th style="width: 20%;">Speaker(s)</th>
-      <th style="width: 60%;">Topic</th>
+      <th style="width: 40%;">Company(s)</th>
+      <th style="width: 60%;">Speaker(s)</th>
   </thead>
   <tbody>
     {% for row in site.data.speakers %}
@@ -26,11 +25,6 @@ permalink: /speakers
         {% else %}
           TBD
         {% endif %}
-      </td>
-      <td>
-        <p>
-        {{row.description}}
-        </p>
       </td>
     </tr>
     {% endfor %}

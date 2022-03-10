@@ -1,44 +1,44 @@
 - date: 1/19
   agenda:
-    - i: Introduction
-    - i: Blockchain and Crypto 101
-    - i: Metaverses, NFTs, and Creator Economies - Intro and Goals
+    title: Welcome to Entrepreneurship
+    recording: https://kaf.berkeley.edu/media/t/1_dgeffp65/239348072
   homework:
 - date: 1/24
   agenda:
-    - i: Guest Lecture, Stephanie Pereira, VP of Creator Success at Rally.io
-    - i: Meet and Greet
+    title: The Players (and use cases)
+    recording: https://kaf.berkeley.edu/media/t/1_96eayz0n/239348072
   homework:
     - i: 
         title: Homework due Jan 24, 2022 - Readings, Venture Dojo, and Company Profile
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8380064
 - date: 1/26
   agenda:
-    - i: Guest Lecture, Mahesh Vellanki, Superlayer
-    - i: Vivisection presentations
-    - i: TBCs, RLY, Creator Coins, Michael Morris
+    title: The Idea, Opportunity Recognition
+    recording: https://kaf.berkeley.edu/media/t/1_0771pmnz/239348072
   homework:
     - i:
           title: Homework due Jan 26, 2022, Videos, 2 Sectors, and Readings
           link: https://bcourses.berkeley.edu/courses/1511465/assignments/8380065
 - date: 1/31
   agenda:
-    - i: Guest Lecture, Andrew Durgee of Republic Crypto
+    title: The Idea, Opportunity Recognition
+    recording: https://kaf.berkeley.edu/media/t/1_dah9ibm2/239348072
   homework:
     - i:
         title: Homework due Jan 31, 2022, Ideation Videos and Idea Slides
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8398581
 - date: 2/2
   agenda:
-    - i: Guest Lecture, Ray Liu of Bit.Country
+    title: The Value
+    recording: https://kaf.berkeley.edu/media/t/1_jf94rmak/239348072
   homework:
     - i:
         title: Homework due Wed, Feb 2, 2022. Readings and Setup Basics
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8400158
 - date: 2/7
   agenda:
-    - i: Guest Lecture Rally Developer and Creator Panel
-    - i: Announcement from SkyDeck
+    title: The Value
+    recording: https://kaf.berkeley.edu/media/t/1_97plrf0r/239348072
   homework:
     - i:
         title: Homework 1 of 2, due Feb 7th, Readings and 7 slides
@@ -48,31 +48,37 @@
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8401311
 - date: 2/9
   agenda:
-    - i: Guest Lecture, Timshel the Historian of Genesis Project and Loot for Adventurers
-    - i: User Research Tools for Startups
+    title: Ideas meet Reality, User Validation
+    recording: https://kaf.berkeley.edu/media/t/1_yhscnb6c/239348072
   homework:
     - i:
         title: Homework due Feb 9, Readings and Mentor Selection
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8402886             
 - date: 2/14
   agenda:
-    - i: Guest Lecture, Christina Steinbrecher, Blockchain.art
-    - i: Deploying NFT smart contracts
+    title: Ideas meet Reality, User Validation
+    recording: https://kaf.berkeley.edu/media/t/1_yn4xgxo2/239348072
   homework:
     - i:
         title: Homework due Feb 14th, User Validation and Venture Dojo
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8403391 
 - date: 2/16
   agenda:
-    - i: Guest Lecture, Elliot Lee, RippleX
-    - i: Business Models
+    title: Business Validation
+    recording: https://kaf.berkeley.edu/media/t/1_70ccoh4a/239348072
   homework:
     - i:
         title: Individual Homework due Feb 16, 2022 - Pretend NFT Purchase
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8404841  
+- date: 2/21
+  agenda:
+    title: Holiday, President's Day
+    recording:
+  homework:
 - date: 2/23
   agenda:
-    - i: Guest Lecture, Dan Roam, Pop-up Pitch / Back of the Napkin
+    title: Business Validation
+    recording: https://kaf.berkeley.edu/media/t/1_dzjew9f4/239348072
   homework:
     - i:
         title: Homework 1 of 2, due Feb 23, New Version of Team Slides
@@ -82,33 +88,100 @@
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8405458  
 - date: 2/28
   agenda:
-    - i: Guest Lecture, Piergiacomo Palmisani of Algorand Foundation
-    - i: Sahil Mehta intro of Entrepreneur student network
-    - i: Prototype/Mockup examples
+    title: Functional Validation (Problem Solution Fit)
+    recording: https://kaf.berkeley.edu/media/t/1_cjobwn0z/239348072
   homework:
     - i:
         title: Homework due Mon, Feb 28- Individual Video Blog
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8407098
 - date: 3/2
   agenda:
-    - i: Guest Lecturer, Henry He, tokenomics
-    - i: Examples of white papers
+    title: Execution
+    recording: https://kaf.berkeley.edu/media/t/1_61027pjf/239348072
   homework:
 - date: 3/7
   agenda:
-    - i: Guest Lecture, Nat and Tori from LeafGlobalFintech
+    title: Execution
+    recording:
   homework:
     - i:
         title: Homework due March 7, 2022 - Prototype and supporting Venture Dojo Video
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8408646
 - date: 3/9
   agenda:
-    - i: Guest Lecture, Michelle Munson, Eluv.io
-    - i: Entrepreneurship and Leadership Qualities
+    title: Customer Acquisition (Marketing, Sales, Distribution)
+    recording:
   homework:
 - date: 3/14
   agenda:
+    title: Customer Acquisition (Marketing, Sales, Distribution)
+    recording:
   homework:
-    - i:
+    - i: 
         title: Homework due March 14th, Technical Paper
         link: https://bcourses.berkeley.edu/courses/1511465/assignments/8409264
+- date: 3/16
+  agenda:
+    title: Finance
+    recording:
+  homework:
+- date: 3/21
+  agenda:
+    title: Spring Recess
+    recording:
+  homework:
+- date: 3/23
+  agenda:
+    title: Spring Recess
+    recording:
+  homework:
+- date: 3/28
+  agenda:
+    title: Finance
+    recording:
+  homework:
+- date: 3/30
+  agenda:
+    title: The Art and Science of Pitching
+    recording:
+  homework:
+- date: 4/4
+  agenda:
+    title: The Art and Science of Pitching
+    recording:
+  homework:
+- date: 4/6
+  agenda:
+    title: The Art and Science of Pitching
+    recording:
+  homework:
+- date: 4/11
+  agenda:
+    title:
+    recording:
+  homework:
+- date: 4/13
+  agenda:
+    title:
+    recording:
+  homework:
+- date: 4/18
+  agenda:
+    title:
+    recording:
+  homework:
+- date: 4/20
+  agenda:
+    title:
+    recording:
+  homework:
+- date: 4/25
+  agenda:
+    title:
+    recording:
+  homework:
+- date: 4/27
+  agenda:
+    title:
+    recording:
+  homework:

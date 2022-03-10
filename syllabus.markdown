@@ -7,7 +7,7 @@ permalink: /syllabus
 <table style="table-layout: fixed; font-size: 88%;">
   <thead>
       <th style="width: 10%;">Date</th>
-      <th style="width: 45%;">Topic(s)</th>
+      <th style="width: 45%;">Topic</th>
       <th style="width: 45%;">Assignments</th>
   </thead>
   <tbody>
@@ -17,17 +17,18 @@ permalink: /syllabus
           {{row.date}}
         </td>
         <td> 
-          {% for item in row.agenda %}
-            <li>{{item.i}}</li>
+          {% if row.agenda.title %}
+            <p style="margin: 0;">{{row.agenda.title}}</p>
           {% else %}
-            <li>TBD</li>
-          {% endfor %}
+            <p>TBD</p>
+          {% endif %}
+          {% if row.agenda.recording %}
+            [<a target="_blank" href="{{row.recording}}" style="font-size: 80%;text-decoration: underline;">Recording</a>]
+          {% endif %}
         </td>
         <td>
           {% for item in row.homework %}
             <li><a href="{{item.i.link}}" target="_blank">{{item.i.title}}</a></li>
-          {% else %}
-            <li>None</li>
           {% endfor %}
         </td>
       </tr>
