@@ -13,17 +13,17 @@ permalink: /syllabus
   <tbody>
     {% for row in site.data.syllabus %}
       <tr>
-        <td style="text-align: center;"> 
+        <td style="text-align: center;">
           {{row.date}}
         </td>
-        <td> 
+        <td>
           {% if row.agenda.title %}
             <p style="margin: 0;">{{row.agenda.title}}</p>
           {% else %}
             <p>TBD</p>
           {% endif %}
           {% if row.agenda.recording %}
-            [<a target="_blank" href="{{row.recording}}" style="font-size: 80%;text-decoration: underline;">Recording</a>]
+            [<a target="_blank" href="{{row.agenda.recording}}" style="font-size: 80%;text-decoration: underline;">Recording</a>]
           {% endif %}
         </td>
         <td>
