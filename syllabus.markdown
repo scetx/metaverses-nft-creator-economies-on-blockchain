@@ -23,7 +23,7 @@ permalink: /syllabus
             <p>TBD</p>
           {% endif %}
           {% if row.agenda.recording %}
-            [<a target="_blank" href="{{row.agenda.recording}}" style="font-size: 80%;text-decoration: underline;">Recording</a>]
+            [<a target="_blank" href="{{row.agenda.recording}}" style="font-size: 80%;text-decoration: underline;">Recording*</a>]
           {% endif %}
         </td>
         <td>
