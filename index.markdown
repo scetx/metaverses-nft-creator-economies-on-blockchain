@@ -22,8 +22,8 @@ redirect_from:
 <table style="table-layout: fixed; font-size: 88%; align: middle;">
   <thead>
     <tr>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/metaverses-nft-creator-economies-on-blockchain/assets/lukekowalski.jpeg" alt="Luke Kowalski"></th>
-      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/metaverses-nft-creator-economies-on-blockchain/assets/michaelmorris.jpeg" alt="Michael Morris"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/lukekowalski.jpeg" alt="Luke Kowalski"></th>
+      <th style="width: 40%;"><img style="object-fit:cover" width=150 height=200 src="/assets/michaelmorris.jpeg" alt="Michael Morris"></th>
     </tr>
   </thead>
   <tbody>
@@ -59,13 +59,13 @@ Time: 5-7pm PST
 
 Location: [ETCH3108](https://www.ets.berkeley.edu/classroom-database/etcheverry-3108) and Zoom
 
-[Zoom Link Meeting ID 987 70842609](https://berkeley.zoom.us/s/98770842609)
+See BCourses for Zoom link
 
 Classes Start on Tue, Jan 18, 2022, so our first class is on Wed, Jan 19, 2022
 
 ## Guest Speaker List
 
-<iframe id="speakers" src="/metaverses-nft-creator-economies-on-blockchain/speakers" width="100%" height="100" frameborder=0> </iframe>
+<iframe id="speakers" src="/speakers" width="100%" height="100" frameborder=0> </iframe>
 
 ## Upcoming Blockchain & NFT Events for Students
 
@@ -73,7 +73,7 @@ Classes Start on Tue, Jan 18, 2022, so our first class is on Wed, Jan 19, 2022
 
 ## Course Syllabus
 
-<iframe id="syllabus" src="/metaverses-nft-creator-economies-on-blockchain/syllabus" width="100%" height="100" frameborder=0> </iframe>
+<iframe id="syllabus" src="/syllabus" width="100%" height="100" frameborder=0> </iframe>
 
 <script>
   function setIframeHeight(iframe) {
@@ -211,7 +211,7 @@ Teams will complete some weekly homework, including occasional “reflections”
 ## Instructor Bios
 
 <br>
-<img style="object-fit:cover" width=150 height=200 src="/metaverses-nft-creator-economies-on-blockchain/assets/lukekowalski.jpeg" alt="Luke Kowalski">
+<img style="object-fit:cover" width=150 height=200 src="/assets/lukekowalski.jpeg" alt="Luke Kowalski">
 
 ### Luke Kowalski
 
@@ -222,7 +222,7 @@ Luke works at Oracle as a corporate executive reporting to one of Larry Ellison�
 Luke has worked on information security, physical security, and other aspects of cyber for over a decade. He firmly believes that blockchain has the potential to disrupt established technical and business patterns around the world. It is also a perfect foundation and universal concept for launching a startup. He also has experience with financial ERP apps, where he was one the lead designers and contributors, in addition to working on an acquisition in the fintech space.
 
 <br>
-<img style="object-fit:cover" width=150 height=200 src="/metaverses-nft-creator-economies-on-blockchain/assets/michaelmorris.jpeg" alt="Michael Morris">
+<img style="object-fit:cover" width=150 height=200 src="/assets/michaelmorris.jpeg" alt="Michael Morris">
 
 ### Michael Morris
 
