@@ -75,6 +75,8 @@ Classes Start on Tue, Jan 18, 2022, so our first class is on Wed, Jan 19, 2022
 
 <iframe id="syllabus" src="/metaverses-nft-creator-economies-on-blockchain/syllabus" width="100%" height="100" frameborder=0> </iframe>
 
+\* Recordings only accessible to students enrolled in the course who are currently signed in on BCourses
+
 <script>
   function setIframeHeight(iframe) {
     if (iframe) {
