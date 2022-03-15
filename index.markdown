@@ -59,7 +59,7 @@ Time: 5-7pm PST
 
 Location: [ETCH3108](https://www.ets.berkeley.edu/classroom-database/etcheverry-3108) and Zoom
 
-[Zoom Link Meeting ID 987 70842609](https://berkeley.zoom.us/s/98770842609)
+See BCourses for Zoom link
 
 Classes Start on Tue, Jan 18, 2022, so our first class is on Wed, Jan 19, 2022
 
